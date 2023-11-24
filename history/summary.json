@@ -4,19 +4,19 @@
     "url": "https://ceabq.top",
     "icon": "https://icons.duckduckgo.com/ip3/ceabq.top.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "4.22%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "4.22%",
-    "uptimeMonth": "4.22%",
-    "uptimeYear": "4.22%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "status": "up",
+    "uptime": "3.38%",
+    "uptimeDay": "3.38%",
+    "uptimeWeek": "3.38%",
+    "uptimeMonth": "3.38%",
+    "uptimeYear": "3.38%",
+    "time": 284,
+    "timeDay": 284,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-11-24": 12
+      "2023-11-24": 16
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
