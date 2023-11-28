@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceabq.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 272,
-    "timeDay": 307,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 284,
+    "timeDay": 371,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-11-24": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 264,
-    "timeWeek": 172,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "time": 188,
+    "timeDay": 303,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
