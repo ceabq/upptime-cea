@@ -24,17 +24,19 @@
     "url": "https://debianppa.ceabq.com",
     "icon": "https://icons.duckduckgo.com/ip3/debianppa.ceabq.com.ico",
     "slug": "debian-ppa-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 123,
-    "timeWeek": 207,
-    "timeMonth": 202,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 140,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   }
 ]
