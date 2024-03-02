@@ -7,6 +7,8 @@ sites:
     url: https://ceabq.top
   - name: debian ppa service
     url: https://debianppa.ceabq.com 
+  - name: status page
+    url: https://status.ceabq.top
 
 
 status-website:
