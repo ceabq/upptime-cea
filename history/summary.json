@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 277,
-    "timeYear": 292,
+    "time": 291,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 276,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-11-24": 6
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianppa.ceabq.com.ico",
     "slug": "debian-ppa-service",
     "status": "up",
-    "uptime": "88.76%",
-    "uptimeDay": "1.72%",
-    "uptimeWeek": "0.25%",
+    "uptime": "88.77%",
+    "uptimeDay": "3.56%",
+    "uptimeWeek": "0.51%",
     "uptimeMonth": "63.31%",
-    "uptimeYear": "88.76%",
-    "time": 213,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 203,
-    "timeYear": 213,
+    "uptimeYear": "88.77%",
+    "time": 214,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 207,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-03-02": 581,
       "2024-03-01": 1440,
@@ -49,5 +49,23 @@
       "2024-02-21": 1440,
       "2024-02-20": 1093
     }
+  },
+  {
+    "name": "status page",
+    "url": "https://status.ceabq.top",
+    "icon": "https://icons.duckduckgo.com/ip3/status.ceabq.top.ico",
+    "slug": "status-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
+    "dailyMinutesDown": {}
   }
 ]
