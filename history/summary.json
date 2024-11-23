@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 268,
-    "timeWeek": 283,
-    "timeMonth": 281,
+    "timeDay": 416,
+    "timeWeek": 301,
+    "timeMonth": 287,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2023-11-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "debian ppa service",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/debianppa.ceabq.com.ico",
     "slug": "debian-ppa-service",
     "status": "down",
-    "uptime": "48.92%",
+    "uptime": "48.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.92%",
+    "uptimeYear": "48.78%",
     "time": 214,
-    "timeDay": 135,
-    "timeWeek": 137,
-    "timeMonth": 211,
+    "timeDay": 235,
+    "timeWeek": 142,
+    "timeMonth": 210,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-11-22": 101,
+      "2024-11-23": 98,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -238,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 265,
-    "timeWeek": 280,
-    "timeMonth": 321,
+    "timeDay": 345,
+    "timeWeek": 281,
+    "timeMonth": 322,
     "timeYear": 316,
     "dailyMinutesDown": {}
   }
